@@ -19,4 +19,4 @@ I developed an interactive dashboard using Tableau to analyze healthcare data re
 This dashboard provides a comprehensive view of how OCD presents across various demographics and over time, supporting deeper analysis and data-driven decision-making.
 
 - <b>Tableau HealthCare Data (Obsessive Compulsion Disorder)Link</b>
-  - [HealthCare Data (Obsessive Compulsion Disorder)]([https://public.tableau.com/app/profile/cassandra7850/viz/HealthCareDataObsessiveCompulsionDisorderInsights/Dashboard1])
+  - [HealthCare Data (Obsessive Compulsion Disorder)](https://public.tableau.com/app/profile/cassandra7850/viz/HealthCareDataObsessiveCompulsionDisorderInsights/Dashboard1)
